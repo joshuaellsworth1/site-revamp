@@ -1,0 +1,52 @@
+.work {
+    display: inline-block;
+    color: rgb(35, 152, 190);
+    left: 22%;
+    top: 34%;
+    border: none;
+    position: absolute;
+    background-color: rgb(233, 188, 67);
+    font-size: 70px;
+
+}
+
+.about {
+    display: inline-block;
+    color: rgb(35, 152, 190);
+    left: 44%;
+    border: none;
+    position: absolute;
+    top: 34%;
+    background-color: rgb(233, 188, 67);
+    font-size: 70px;
+}
+
+.contact {
+    display: inline-block;
+    color: rgb(35, 152, 190);
+    left: 66%;
+    border: none;
+    position: absolute;
+    top: 34%;
+    background-color: rgb(233, 188, 67);
+    font-size: 70px;
+}
+
+.work:hover {
+    color: white;
+}
+
+.about:hover {
+    color: white;
+}
+
+.contact:hover {
+    color: white;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
